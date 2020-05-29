@@ -24,7 +24,7 @@ The [Mobile Alerts](http://www.mobile-alerts.eu) are a version of the [LaCrosse 
   * [Mobile Alerts Gateway Upload into Cloud](MobileAlertsGatewayBinaryUpload.markdown) - binary protocol used by the Gateway to upload sensor data into the Cloud
 
 
-Tradução pt-br
+# Tradução pt-br
 
 # MMMMobileAlerts
 
@@ -38,7 +38,7 @@ Os alertas móveis cobrem principalmente sensores climáticos, mas também cont�
 
 Os [Alertas Móveis](http://www.mobile-alerts.eu) são uma versão do sistema [LaCrosse Alerts Mobile](http://www.lacrossetechnology.com/alerts/) feito para o mercado europeu.
 
-## Infomation detalhada
+## Infomação detalhada
 
 - [Alertas móveis ELV vs LaCrosse](MobileAlertsELVvsLaCrosse.markdown) - Diferença entre sensores ELV e LaCrosse
 - [Dispositivos de alerta móvel](MobileAlertsDevices.markdown) - Lista de todos os dispositivos com informações técnicas
